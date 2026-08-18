@@ -72,11 +72,7 @@ pip install torch numpy matplotlib jupyter
 
 ## Usage
 
-Open any notebook in Jupyter and run the cells top to bottom:
-
-```bash
-jupyter notebook FedSNN_1D_Function.ipynb
-```
+Open any notebook in Jupyter and run all cells top to bottom.
 
 The 1D and 2D function experiments are fully reproducible by regenerating the
 synthetic data. Pretrained global checkpoints (`.pth`) are provided for the 1D and
