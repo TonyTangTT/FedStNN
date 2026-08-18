@@ -2,7 +2,7 @@
 
 Official code for the paper **"Federated Learning on Stochastic Neural Networks"**
 Jingqiao Tang, Ryan Bausback, Feng Bao, Richard Archibald
-[arXiv:2506.08169](https://arxiv.org/abs/2506.08169) · *Journal of Machine Learning for Modeling and Computing* (2025)
+[arXiv:2506.08169](https://arxiv.org/abs/2506.08169) · *Journal of Machine Learning for Modeling and Computing*, **6**(4), 125–150 (2025) · [DOI:10.1615/JMachLearnModelComput.2025060047](https://doi.org/10.1615/JMachLearnModelComput.2025060047)
 
 ## Overview
 
@@ -86,11 +86,16 @@ The image used in Experiment 3 is the FSU logo, converted to black and white.
 ## Citation
 
 ```bibtex
-@article{tang2025fedstnn,
+@article{Tang_2025,
+  author  = {Jingqiao Tang and Ryan Bausback and Feng Bao and Richard Archibald},
   title   = {Federated Learning on Stochastic Neural Networks},
-  author  = {Tang, Jingqiao and Bausback, Ryan and Bao, Feng and Archibald, Richard},
   journal = {Journal of Machine Learning for Modeling and Computing},
+  issn    = {2689-3967},
   year    = {2025},
-  note    = {arXiv:2506.08169}
+  volume  = {6},
+  number  = {4},
+  pages   = {125--150},
+  doi     = {10.1615/JMachLearnModelComput.2025060047},
+  url     = {https://dl.begellhouse.com/journals/558048804a15188a,1c7e14936ceba523,7d79b6394969fcf3.html}
 }
 ```
